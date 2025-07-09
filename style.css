@@ -3,5 +3,12 @@ p{
 }
 
 h {
+    /* bleh bleh bleh blehs*/
     display: flex;
+}
+
+.timeline {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex: auto;
 }
